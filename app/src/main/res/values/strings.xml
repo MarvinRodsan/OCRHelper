@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">OCRHelper</string>
+
+    <!-- Inicio -->
+    <string name="scan_document">Escanear</string>
+    <string name="select_image">Galería</string>
+    <string name="search_hint">Buscar documentos</string>
+    <string name="clear_search">Borrar búsqueda</string>
+    <string name="documents_title">Mis documentos</string>
+    <string name="empty_documents">Aún no tienes documentos guardados.\nEscanea o selecciona una imagen para empezar.</string>
+    <string name="empty_search">No hay documentos que coincidan con la búsqueda.</string>
+
+    <!-- Cámara -->
+    <string name="camera_title">Escanear documento</string>
+    <string name="camera_permission_rationale">OCRHelper necesita la cámara para fotografiar documentos.</string>
+    <string name="grant_permission">Dar permiso</string>
+    <string name="open_settings">Abrir ajustes</string>
+    <string name="take_photo">Tomar foto</string>
+    <string name="capture_error">No se pudo tomar la foto</string>
+
+    <!-- Resultado -->
+    <string name="result_title">Texto detectado</string>
+    <string name="loading">Reconociendo texto…</string>
+    <string name="no_text_found">No se encontró texto en la imagen.</string>
+    <string name="error_prefix">Error: %1$s</string>
+    <string name="title_label">Título</string>
+    <string name="text_label">Texto (puedes corregirlo)</string>
+    <string name="copy">Copiar</string>
+    <string name="copied">Texto copiado</string>
+    <string name="save">Guardar</string>
+    <string name="saved">Documento guardado</string>
+
+    <!-- Detalle -->
+    <string name="document_not_found">Este documento ya no existe.</string>
+    <string name="delete">Eliminar</string>
+    <string name="delete_confirm_title">¿Eliminar documento?</string>
+    <string name="delete_confirm_message">Se eliminará «%1$s». Esta acción no se puede deshacer.</string>
+    <string name="cancel">Cancelar</string>
+    <string name="back">Volver</string>
+</resources>
